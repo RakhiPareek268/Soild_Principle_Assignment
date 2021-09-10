@@ -1,1 +1,1 @@
-# Soild_Principle_Assignment
+# Code-And-Blog_Assignment-SOLID-principles-
